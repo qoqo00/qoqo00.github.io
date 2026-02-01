@@ -14,7 +14,7 @@ Tianyu Zhang
 Hi! I’m a Computer Science student at the University of Houston.
 
 Education
-Senior undergraduate student in Computer Science, University of Houston
+Currently in my senior year as a Computer Science undergraduate at the University of Houston.
 
 Links
 Department: https://cs.uh.edu
