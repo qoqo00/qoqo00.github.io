@@ -7,16 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-Tianyu Zhang
+# Tianyu Zhang
 
 ![My photo](/images/me.jpg)
 
 Hi! I’m a Computer Science student at the University of Houston.
 
-Education
-Currently in my senior year as a Computer Science undergraduate at the University of Houston.
+## Education
+- Currently in my senior year as a Computer Science undergraduate at the University of Houston.
 
-Links
-Department: https://cs.uh.edu
-LinkedIn:
-Resume:
+## Links
+- Department: https://cs.uh.edu
+- LinkedIn:
+- Resume:
