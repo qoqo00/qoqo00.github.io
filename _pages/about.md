@@ -13,10 +13,10 @@ Tianyu Zhang
 
 Hi! I’m a Computer Science student at the University of Houston.
 
-## Education
-- B.S. in Computer Science, University of Houston (Expected Graduation: 20XX)
+Education
+Senior undergraduate student in Computer Science, University of Houston
 
-## Links
-- Department: https://cs.uh.edu
-- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN/
-- Resume (PDF): /files/resume.pdf
+Links
+Department: https://cs.uh.edu
+LinkedIn:
+Resume:
