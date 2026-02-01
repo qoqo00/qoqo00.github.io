@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# 你的名字（Your Name）
+Tianyu Zhang
 
 ![My photo](/images/me.jpg)
 
